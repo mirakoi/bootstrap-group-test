@@ -41,6 +41,12 @@
   }
 
   .fa-brands:hover {
-    color:rgb(167, 135, 170);
+    color:red !important;
   }
 
+  .nav-link:hover {
+    color:red !important;
+    background-color: rgb(196, 186, 186);
+  }
+
+  
