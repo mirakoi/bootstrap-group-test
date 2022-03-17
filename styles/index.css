@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style: none;
+  }
+ 
+  #showcase {
+      background: url(https://images.unsplash.com/photo-1646452016075-b83189da144f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80)
+  }
+
+  .chair {
+      height: 600px;
+      width: 400px;
+  }
+
+  .title-underline {
+    width: 200px;
+    border: 1px solid rgb(224, 134, 134);
+    margin: auto;
+  }
+
+  h3 {
+    font-family: 'Aleo', serif;
+  }
+
+  h4 {
+    font-family: 'Aleo', serif;
+  }
+  
+  .footer-section {
+    background-color: rgb(135, 170, 135);
+  }
+
+  .fa-brands:hover {
+    color:rgb(167, 135, 170);
+  }
+
